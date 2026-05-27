@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpelete",
+        "uuid": 844872,
+        "checksum": "9160mw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
